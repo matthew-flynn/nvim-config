@@ -12,6 +12,7 @@ return {
         null_ls.builtins.formatting.goimports_reviser,
         null_ls.builtins.formatting.golines,
         null_ls.builtins.formatting.prettier,
+        null_ls.builtins.formatting.csharpier,
         require("none-ls.diagnostics.eslint_d"),
       },
     })
