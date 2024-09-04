@@ -50,7 +50,7 @@ return {
         capabilities = capabilities,
         cmd = {
           "dotnet",
-          "C:/Users/matt1/AppData/Local/nvim-data/mason/packages/omnisharp/libexec/OmniSharp.dll",
+          "C:/Users/Matt.Flynn/AppData/Local/nvim-data/mason/packages/omnisharp/libexec/OmniSharp.dll",
         },
         enable_import_completion = true,
         organize_imports_on_format = true,
