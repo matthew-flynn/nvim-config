@@ -36,7 +36,7 @@ return {
 					plugins = {
 						{
 							name = "@vue/typescript-plugin",
-							location = "C:/Users/Matt.Flynn/AppData/Roaming/npm/node_modules/@vue/typescript-plugin",
+							location = "C:/Users/matt1/AppData/Local/nvim-data/mason/packages/omnisharp/libexec/OmniSharp.dll",
 							languages = { "javascript", "typescript", "vue" },
 						},
 					},
